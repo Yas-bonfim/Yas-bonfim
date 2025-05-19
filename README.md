@@ -1,7 +1,12 @@
 <h2 align="left">Hi 👋! My name is Yas-bonfim. Welcome to my profile</h2>
 
 ###
+---
+🧠 Exploradora de dados e criadora de redes neurais curiosas
 
+💻 Apaixonada por transformar ideias em soluções tecnológicas inovadoras
+
+---
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -56,5 +61,11 @@
 </div>
 
 ###
+###
 
+
+
+
+
+---
 ![Snake animation](https://raw.githubusercontent.com/Yas-bonfim/Yas-bonfim/output/snake.svg)
