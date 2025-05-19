@@ -56,3 +56,5 @@
 </div>
 
 ###
+
+![Snake animation](https://raw.githubusercontent.com/Yas-bonfim/Yas-bonfim/output/snake.svg)
